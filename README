@@ -1,0 +1,6 @@
+## gmail.attachment.api
+sistema para identificar os anexos recebidos em uma conta do GMAIL.
+
+1) Identificar mensagens
+2) Filtrar tudo que está na caixa INBOX
+3) Processa  a cada X segundos (parametrizavel)
