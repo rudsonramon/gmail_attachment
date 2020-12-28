@@ -4,3 +4,5 @@ sistema para identificar os anexos recebidos em uma conta do GMAIL.
 1) Identificar mensagens
 2) Filtrar tudo que está na caixa INBOX
 3) Processa  a cada X segundos (parametrizavel)
+4) Filtrar por string no Assunto = Nf-e
+5) Copiar arquivo anexo, para a pasta local.
